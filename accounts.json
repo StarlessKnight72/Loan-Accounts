@@ -1,0 +1,20 @@
+{
+    "1": {
+        "name": "Ryan",
+        "activeloan": "NO",
+        "totalloaned": 0,
+        "totalgivenback": 0,
+        "creditscore": 100,
+        "averagelatetime": 0,
+        "updated": true
+    },
+    "2": {
+        "name": "Carson",
+        "activeloan": "NO",
+        "totalloaned": 3,
+        "totalgivenback": 2,
+        "averagelatetime": 60,
+        "creditscore": 96.63,
+        "updated": true
+    }
+}
